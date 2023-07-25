@@ -6,7 +6,6 @@
 	<h1 style="color: yellow; font-size: 40px;" align="center">THIS IS NEXT VERSION OF OUR APP</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS last VERSION OF OUR APPLICATION</h1>	
 	<h1 style="color: pink; font-size: 40px;" align="center">THIS IS SWIGGY APPLICATION</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">SUSHMA</h1>
 	
 	
 	
